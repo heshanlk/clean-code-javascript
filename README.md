@@ -1,8 +1,6 @@
 # clean-code-javascript
 
 ## Table of Contents
-- [clean-code-javascript](#clean-code-javascript)
-  * [Table of Contents](#table-of-contents)
   * [Introduction](#introduction)
   * [**Variables**](#--variables--)
     + [Use meaningful and pronounceable variable names](#use-meaningful-and-pronounceable-variable-names)
